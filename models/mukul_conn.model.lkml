@@ -9,6 +9,7 @@ datagroup: mukul_conn_default_datagroup {
 }
 
 persist_with: mukul_conn_default_datagroup
+label: "Mukul's Ramp Model"
 
 explore: inventory_items {
   join: products {
